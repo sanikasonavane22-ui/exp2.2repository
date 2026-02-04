@@ -7,10 +7,13 @@
 </head>
 
 <body>
+<<<<<<< HEAD
 <h1>Change1 by B1 sanika </h1>
-<h1>Change4 by B1</h1>
 <h1>Change2 by B2 </h1>
 <h1>Chnage3 by B1 </h1>
+=======
+<h1>Change4 by B1</h1>
+>>>>>>> branch2
     <div class="main-container">
         <div class="cloud-image">
             <img src="img/successCloudNew.svg" />
